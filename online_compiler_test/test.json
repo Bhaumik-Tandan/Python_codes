@@ -1,0 +1,16 @@
+{
+    "passed": 2,
+    "failed": 1,
+    "error": 2,
+    "passed_cases": [
+        0,
+        1
+    ],
+    "failed_cases": [
+        5
+    ],
+    "error_cases": {
+        "-1": "maximum recursion depth exceeded in comparison",
+        "-2": "maximum recursion depth exceeded in comparison"
+    }
+}
